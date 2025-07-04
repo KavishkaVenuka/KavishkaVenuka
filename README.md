@@ -72,12 +72,6 @@ const kavishka = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavishkaVenuka&theme=tokyo-night&include_all_commits=true&count_private=true" alt="Activity Graph"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KavishkaVenuka&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
-</div>
-
 ## 🎯 Current Focus
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
@@ -106,11 +100,7 @@ Terminal: Windows Terminal with PowerShell
 Browser: Chrome DevTools
 ```
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavishkaVenuka&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
 
 ---
 
