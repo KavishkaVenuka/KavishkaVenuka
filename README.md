@@ -39,8 +39,8 @@ const kavishka = {
 
 ### Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
@@ -63,6 +63,7 @@ const kavishka = {
 </p>
 
 ## 📊 GitHub Analytics
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavishkaVenuka&theme=tokyonight" alt="GitHub Streak"/>
