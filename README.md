@@ -80,7 +80,7 @@ const kavishka = {
 - 🌱 I'm learning **Cloud Architecture & DevOps**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, ML, and Cloud**
-- 📫 How to reach me: **kavishkavenuka554@gmail.com**
+- 📫 How to reach me: **kavishkadealwiss@gmail.com**
 - ⚡ Fun fact: **I think coffee is a programming language ☕**
 
 ## 🤝 Let's Connect
