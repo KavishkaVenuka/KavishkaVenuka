@@ -96,7 +96,7 @@ const kavishka = {
 ## 💼 Development Environment
 
 ```yaml
-OS: Windows 11 / Ubuntu 24.04 LTS
+OS: Windows 11 / Ubuntu 24.04 
 Editor: VS Code
 Terminal: Windows Terminal with PowerShell
 Browser: Chrome DevTools
