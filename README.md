@@ -16,7 +16,7 @@ const kavishka = {
     pronouns: "he/him",
     location: "Sri Lanka 🇱🇰",
     passions: ["Web Development", "Agentic AI", "Cloud Engineering"],
-    currentlyLearning: ["Cloud Architecture", "AI/ML"]
+    currentlyLearning: ["Agentic AI", "Cloud Architecture"]
 };
 ```
 
