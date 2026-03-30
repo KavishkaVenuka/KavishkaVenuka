@@ -15,11 +15,8 @@
 const kavishka = {
     pronouns: "he/him",
     location: "Sri Lanka 🇱🇰",
-    currentRole: "Full Stack Developer",
-    passions: ["Web Development", "Machine Learning", "Open Source"],
-    currentlyLearning: ["Cloud Architecture", "AI/ML"],
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛",
-    availableFor: "Freelance projects and collaborations"
+    passions: ["Web Development", "Agentic AI", "Cloud Engineering"],
+    currentlyLearning: ["Cloud Architecture", "AI/ML"]
 };
 ```
 
@@ -31,9 +28,7 @@ const kavishka = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>height="45"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
 </p>
 
