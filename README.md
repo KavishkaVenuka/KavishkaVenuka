@@ -131,7 +131,7 @@ const kavishka = {
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **Full-Stack Cloud-Native Applications** with Next.js, FastAPI & Microservices
+- 🔭 Working on: **Full-Stack Cloud-Native Applications** 
 - ☁️ Architecting on: **AWS & Azure Cloud Infrastructure**
 - ⚙️ Automating with: **Terraform (IaC), Docker & GitHub Actions CI/CD**
 - 📈 Observability & Monitoring: **Grafana & Prometheus**
