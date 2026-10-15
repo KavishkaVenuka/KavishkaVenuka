@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=220&section=header&text=Kavishka%20Venuka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Linux%20Guy&descFontSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=220&section=header&text=Kavishka%20Venuka&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Cloud%20%E2%80%A2%20Full%20Stack%20Development%20%E2%80%A2%20Problem%20Solver&descFontSize=18&descAlignY=62" width="100%" />
 
   <!-- Animated Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+Modern+Web+Apps;%E2%98%81%EF%B8%8F+Cloud+Practitioner+(AWS+%26+Azure);%E2%9A%99%EF%B8%8F+DevOps+%26+Automation+(Docker,+Terraform);%F0%9F%90%A7+Hardcore+Linux+Guy+%26+Power+User;%F0%9F%8C%90+Active+Open+Source+Contributor;" alt="Typing SVG" />
